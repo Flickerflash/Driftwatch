@@ -226,7 +226,7 @@ export default function App() {
       
       // Use high-thinking model for complex queries
       const model = genAI.getGenerativeModel({ 
-        model: "gemini-2.0-flash-thinking-exp-01-21",
+        model: "gemini-2.5-flash",
       });
 
       const prompt = `
