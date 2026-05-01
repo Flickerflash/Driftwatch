@@ -1,5 +1,5 @@
 <!--
-  © 2025-2026 Ndr "Ender" Hensel (Flickerflash). All rights reserved.
+  © 2025-2026 Ndr "Ender" Hensel (ndrorchestration). All rights reserved.
   Licensed under Apache License 2.0 — see LICENSE for terms.
   This file contains proprietary agent specification IP for the DGAF ecosystem.
   Redistribution or reuse without attribution is prohibited.
