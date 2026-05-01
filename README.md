@@ -1,7 +1,9 @@
 # Driftwatch
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Topics](https://img.shields.io/badge/topics-drift--detection%20%7C%20phi--harmonic%20%7C%20multi--agent%20%7C%20truth--scoring-purple)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-Apache%202.0-01696f?style=flat-square)
+![Governed](https://img.shields.io/badge/Governed%20by-DGAF--Framework-7a39bb?style=flat-square)
+![Topics](https://img.shields.io/badge/topics-drift--detection%20%7C%20phi--harmonic%20%7C%20multi--agent%20%7C%20truth--scoring-4f98a3?style=flat-square)
+![Maintained](https://img.shields.io/badge/Maintained-yes-437a22?style=flat-square)
 
 > **Governance:** DGAF / Agent Amethyst — Yes. Driftwatch operates as a real-time drift detection and truth-scoring layer within the DGAF evaluation stack. Outputs feed into [3d-visualization-hub](https://github.com/ndrorchestration/3d-visualization-hub). See [DGAF-Framework](https://github.com/ndrorchestration/DGAF-Framework) for spine documentation.
 
@@ -62,9 +64,9 @@ npm run dev
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+Apache License 2.0 — see [LICENSE](LICENSE) for details.
 
 ## Provenance
 
-Developed by [Ndr "Ender" Hensel](https://github.com/ndrorchestration) — AI Orchestration Engineer & Systems Architect, Columbus OH.  
+Developed by [Ndr “Ender” Hensel](https://github.com/ndrorchestration) — AI Orchestration Engineer & Systems Architect, Columbus OH.  
 [LinkedIn](https://www.linkedin.com/in/andrewhensel) · [GitHub](https://github.com/ndrorchestration)
